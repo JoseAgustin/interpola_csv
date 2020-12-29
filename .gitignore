@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Files
+*.graffle
+*.csv
+wrfinput_d01
+geo_em.d01.nc

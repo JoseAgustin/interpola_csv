@@ -1,0 +1,5 @@
+  *** Reading Domain coordinates  ***
+ No file wrfinput_d01
+ Trying geo_em.d01  
+  *** Reading Lat Lon in file:geo_em.d01  
+PASS test1 (exit status: 0)
